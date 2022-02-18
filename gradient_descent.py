@@ -1,5 +1,8 @@
 '''
 GRADIENT DESCENT
+This is used when there are more features and training samples.
+Below is the implementation of batch gradient descent.
+ - Uses the whole training data per epoch
 
 @author: anaustinbeing
 '''

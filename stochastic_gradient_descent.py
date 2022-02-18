@@ -1,6 +1,9 @@
 '''
 STOCHASTIC GRADIENT DESCENT
-
+This uses the built-in sgd from linear_model of sklearn
+ - Uses single training sample per epoch (epoch means iteration)
+ - or a random subset of training samples per epoch, if mini batch SGD
+ 
 @author: anaustinbeing
 '''
 import numpy as np
