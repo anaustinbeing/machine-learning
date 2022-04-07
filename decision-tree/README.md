@@ -1,1 +1,1 @@
-This folder contains building and testing using DecisionTreeClassifier.
+This folder contains codes for building and testing using DecisionTreeClassifier.
